@@ -1,0 +1,252 @@
+.background-image {
+  width: 1440px;
+  height: 1093px;
+  background-image: url(Object.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo {
+  padding: 20px;
+  margin-left: 80px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+ul li {
+  list-style: none;
+  display: inline;
+  text-align: center;
+  width: 1103.41px;
+  width: 234px;
+  height: 15px;
+  top: 37px;
+}
+ul li a {
+  text-decoration: none;
+  width: 50px;
+  height: 15px;
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.08px;
+  color: #ffffff;
+  justify-content: center;
+  word-spacing: 60px;
+  position: relative;
+  right: 180px;
+  margin-right: 30px;
+}
+ul {
+  width: 234px;
+  height: 15px;
+  top: 37px;
+  left: 1041px;
+  gap: 0px;
+  opacity: 0px;
+  left: 30px;
+  padding-top: 20px;
+}
+h1 {
+  width: 684px;
+  white-space: nowrap;
+  height: 151px;
+  top: 220px;
+  gap: 0px;
+  opacity: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Source Sans Pro;
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 150.84px;
+  text-align: center;
+  justify-content: center;
+  color: #ffffff;
+  position: relative;
+  top: 20px;
+  word-spacing: 40px;
+}
+body {
+  text-align: center;
+}
+span {
+  width: 52px;
+  height: 20px;
+  justify-content: space-around;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.11px;
+  text-align: center;
+  color: #ffffff;
+}
+#span {
+  position: relative;
+  top: -100px;
+  word-spacing: 60px;
+}
+.button {
+  width: 162px;
+  height: 44px;
+  top: 419px;
+  left: 639px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 2px 20px 0px #00000080;
+  background: #c271ff;
+  border-radius: 30px;
+  color: #ffffff;
+  border: none;
+}
+h2 {
+  width: 261px;
+  height: 40px;
+  font-family: source sans pro;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40.22px;
+  text-align: center;
+  color: #ffffff;
+  margin-right: auto;
+  margin-left: auto;
+  white-space: nowrap;
+  position: relative;
+  top: 150px;
+}
+.pros {
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+  gap: 80px;
+  color: #ffffff;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+}
+#pros {
+  font-family: Source Sans Pro;
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 50px;
+}
+.weather {
+  display: flex;
+  width: 1440px;
+  height: 392px;
+  top: 1093px;
+  background: #c271ff;
+  color: #ffffff;
+  font-family: Source Sans Pro;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33.6px;
+  margin-right: 50px;
+  padding-top: 120px;
+}
+.weather blockquote {
+  display: inline-block;
+  margin-left: 150px;
+  position: relative;
+}
+.weather div img {
+  margin-left: 140px;
+}
+.tutorials {
+  display: flex;
+  margin-top: 200px;
+  font-family: Source Sans Pro;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 40.22px;
+  text-align: center;
+  color: black;
+  gap: 30px;
+  transform: translateX(-240px);
+  padding: 20px 400px;
+  text-align: start;
+}
+#popular span {
+  color: #c271ff;
+  display: inline;
+  font-size: 32px;
+}
+#popular {
+  display: inline;
+  color: black;
+  transform: translateY(-280px);
+  margin-left: 100px;
+  text-align: center;
+  padding: 30px 0px;
+}
+.tutorials div div img {
+  width: 30px;
+  height: 30px;
+  top: 261px;
+  align-items: start;
+  transform: translateY(13px);
+}
+.tutorials div h4 {
+  color: #c271ff;
+  display: inline;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.starrating {
+  color: #c271ff;
+  display: inline-block;
+  display: flex;
+}
+
+.blank {
+  color: grey;
+}
+#popular {
+  text-align: center;
+}
+.play {
+  position: absolute;
+  transform: translateY(30px);
+  margin-left: 90px;
+}
+.membership {
+  z-index: -1;
+  display: flex;
+}
+.weather {
+  width: 1440px;
+  height: 502px;
+  color: white;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto auto;
+  grid-gap: 20px;
+}
+.head {
+  font-family: Source Sans Pro;
+  font-size: 60px;
+  font-weight: 300;
+  line-height: 75.42px;
+  text-align: center;
+  color: black;
+  transform: translateY(-200px);
+}
+footer {
+  width: 1440px;
+  height: 249px;
+  background-color: black;
+}
+.end {
+  display: flex;
+  color: #ffffff;
+  gap: 70%;
+  padding: 100px;
+
+
+}
