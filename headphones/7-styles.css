@@ -328,7 +328,7 @@ height: 1491px;
         background-position: center;
     }
     .pentagons{
-        transform: translateY(10SS0px);
+        transform: translateY(100px);
         display: block;
         gap: 50px; 
         animation-name: pentagon;
